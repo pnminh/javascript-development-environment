@@ -13,5 +13,5 @@
  */
 
 /* eslint-disable no-unused-vars */
-
+import './vendor.css';
 import fetch from 'whatwg-fetch';
