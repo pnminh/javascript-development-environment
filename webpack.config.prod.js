@@ -16,6 +16,7 @@ export default {
   output: {
     path: path.resolve(__dirname, 'dist'),
     publicPath: '/',
+    //[name]: name of the entry
     filename: '[name].[chunkhash].js'
   },
   plugins: [
